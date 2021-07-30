@@ -27,6 +27,6 @@ My challenge is build with vanilla css.
 
 ## Deploy
 
-- [Github pages](https://muhammadshajjar.github.io/profile-card-component-/)
+- [Netlify](https://suspicious-borg-47f323.netlify.app/)
 
 
